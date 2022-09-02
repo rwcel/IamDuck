@@ -1,0 +1,366 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a2edb87e7194e468f9968344e6da76, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: -2004332024, guid: ad486d6cc07be1a4885e6b0b0ba7a57a, type: 3}
+    - {fileID: 21300000, guid: 79d1dac4ac643a64094fce69d27d73e8, type: 3}
+    - {fileID: 21300000, guid: 37391732c5ecd5649b38b853b80b5c43, type: 3}
+    - {fileID: 21300000, guid: a6381f6e079583b4b9ab048d7bdabd73, type: 3}
+    - {fileID: 21300000, guid: 7b6fadb66463a9642b64b8856c5e3e9b, type: 3}
+    - {fileID: 21300000, guid: f01504a6c4283ea4fa6cffe10bcf22a2, type: 3}
+    - {fileID: 21300000, guid: 9bd62a8c4d8e4194089798f52c6d5794, type: 3}
+    - {fileID: 21300000, guid: 9accb19f2a1d6e144a73dc7f4c07c4fa, type: 3}
+    - {fileID: 21300000, guid: b0fd2508c9bd57542a6378e5db04797d, type: 3}
+    - {fileID: 21300000, guid: ff81f211bfb178946841882c6b2ccaec, type: 3}
+    - {fileID: 21300000, guid: f425fe6b829db3349a5eff2e2f179476, type: 3}
+    - {fileID: 21300000, guid: febb06d1bf56a4a45b607bfa0d0ce46f, type: 3}
+    - {fileID: 21300000, guid: c89b8ed3bc6158a4690342bfab653615, type: 3}
+    - {fileID: 21300000, guid: 14adb01e6ca62d14bbd25dfce925b7f4, type: 3}
+    - {fileID: 21300000, guid: e20ec34711827224083ce91a5a643f19, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: GameItemSpriteMap
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[EGameItem, Jump.Utils],[UnityEngine.Sprite,
+        UnityEngine.CoreModule]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[EGameItem, Jump.Utils]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 18
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 101
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 102
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 103
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 105
+    - Name: $v
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 201
+    - Name: $v
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 202
+    - Name: $v
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 203
+    - Name: $v
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 204
+    - Name: $v
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 205
+    - Name: $v
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 206
+    - Name: $v
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 301
+    - Name: $v
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 302
+    - Name: $v
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 303
+    - Name: $v
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 304
+    - Name: $v
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 305
+    - Name: $v
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 601
+    - Name: $v
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 602
+    - Name: $v
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 410
+    - Name: $v
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  isTestMode: 0
+  Store: 0
+  CharacterDatas:
+  - {fileID: 11400000, guid: c50ba9fbf5cafa24a8483cf0876cb15e, type: 2}
+  - {fileID: 11400000, guid: 3afb42d0ba18c8e4e94284c4649a387b, type: 2}
+  - {fileID: 11400000, guid: ebbe5971a82a4e44782457e8ade4b4e1, type: 2}
+  - {fileID: 11400000, guid: 64c70cbcf52eb994d968c74361df0185, type: 2}
+  - {fileID: 11400000, guid: cf284b24cd2ecea4b8fda50a5caa112a, type: 2}
+  - {fileID: 11400000, guid: 393cba003f2864a4fa25f52f52c05fe1, type: 2}
+  - {fileID: 11400000, guid: e60a9b5b4ec8f9e41b87981376f1d373, type: 2}
+  - {fileID: 11400000, guid: cc6aca78df9d9d74a8ebd87c3ec6dc5f, type: 2}
+  - {fileID: 11400000, guid: c6197165c0829494bbe9049aa23e09af, type: 2}
+  - {fileID: 11400000, guid: c4237d7c862bc1742a64c3b246fd0e2a, type: 2}
+  - {fileID: 11400000, guid: 397adf43215cd884a8535e83aaa1bb8a, type: 2}
+  - {fileID: 11400000, guid: e0a33e6f7ad36904fa4215a8a514f25f, type: 2}
+  - {fileID: 11400000, guid: 3f818877cb35cb54986575290b2a98c4, type: 2}
+  - {fileID: 11400000, guid: 384d18113717bdd46b8bcaa67481dd41, type: 2}
+  - {fileID: 11400000, guid: e2b526d5393a63c4084cd0a0cf563218, type: 2}
+  - {fileID: 11400000, guid: a0db26e2b64ab434489a10ac00820a36, type: 2}
+  - {fileID: 11400000, guid: 18a1941f26884374d831d470608254ff, type: 2}
+  - {fileID: 11400000, guid: 7ced3964bd25a6e47a73f900463ddeff, type: 2}
+  - {fileID: 11400000, guid: f2c7261628439514c984160f9bca4d50, type: 2}
+  - {fileID: 11400000, guid: e479d4d6cd3289640a2ff37fe2555131, type: 2}
+  - {fileID: 11400000, guid: c3f1fa639dcfafd4e9cef83f6b3bcc46, type: 2}
+  MissionDatas:
+  - {fileID: 11400000, guid: edddf3f96a398e445b0ddcc54dc6c690, type: 2}
+  - {fileID: 11400000, guid: b2f6d66047cfe31468daca638eff4b03, type: 2}
+  - {fileID: 11400000, guid: d710b75097de0e54d8634fa996055712, type: 2}
+  - {fileID: 11400000, guid: 3192e573a6adba24baa0c9cb93048215, type: 2}
+  - {fileID: 11400000, guid: e2364ed8f25beab4e93ec2fd8871ffa2, type: 2}
+  MissionRewardDatas:
+  - {fileID: 11400000, guid: 3dd1991a31237ae46a3b5088b8ae5332, type: 2}
+  - {fileID: 11400000, guid: 7c7dc9c51fe8882448d8deda57a1b800, type: 2}
+  - {fileID: 11400000, guid: 0af62d49520a2b04f82edf746ce3413b, type: 2}
+  ShopDatas:
+  - {fileID: 11400000, guid: d3bea8631296a9e4081a2d8e0421604c, type: 2}
+  - {fileID: 11400000, guid: 7914dc89f80129f47828cfaba71dbfaf, type: 2}
+  - {fileID: 11400000, guid: f7db4ada0c631434780ebdbca5a5591a, type: 2}
+  - {fileID: 11400000, guid: a3a7c61bf5ad54c4faa8bb4e5e60036d, type: 2}
+  - {fileID: 11400000, guid: abdf736733b256d448ca4e1c14fe28d7, type: 2}
+  - {fileID: 11400000, guid: e75a41ac75c83bc44814f20db7687607, type: 2}
+  - {fileID: 11400000, guid: 775b2f16acad79f4e9b3f46bb920c589, type: 2}
+  - {fileID: 11400000, guid: d2517b630eb765c468eb68d2d247677d, type: 2}
+  - {fileID: 11400000, guid: 8beb71e3e268827468e91322583aa577, type: 2}
+  - {fileID: 11400000, guid: 7d0292c889abc5146bd326cc96c6673d, type: 2}
+  - {fileID: 11400000, guid: 443aaaf5e4425514087fbfd41b0305da, type: 2}
+  - {fileID: 11400000, guid: bda88b2bb11d5e94b92a321cb14f9c77, type: 2}
+  - {fileID: 11400000, guid: 1f6441bdb0432c84fba1a2e7c35798f1, type: 2}
+  - {fileID: 11400000, guid: 511cdf4c8be5e784e8015ca57e60cbf8, type: 2}
+  - {fileID: 11400000, guid: 66961f356fb728a4180f0a0334efb824, type: 2}
+  ButtonScaleTween:
+    value: 0.85
+    time: 0.25
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 2
+        outSlope: 2
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: -2
+        outSlope: -2
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4

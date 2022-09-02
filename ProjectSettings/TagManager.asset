@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Wall
+  - Floor
+  - Item
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Floor
+  - Player
+  - 
+  - Item
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3887778835
+    locked: 0
+  - name: Back Objects
+    uniqueID: 1455443913
+    locked: 0
+  - name: Block
+    uniqueID: 728616945
+    locked: 0
+  - name: Front Objects
+    uniqueID: 2986307631
+    locked: 0
+  - name: Player
+    uniqueID: 2406300663
+    locked: 0
+  - name: UI
+    uniqueID: 1869795533
+    locked: 0

@@ -1,0 +1,16 @@
+{
+    "name": "Jump.SO",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a7a99516190bd674b9bad35b8399c04c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

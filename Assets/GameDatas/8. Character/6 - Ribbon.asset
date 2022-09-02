@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd12deb9d58d98a43816f7f343ee7af8, type: 3}
+  m_Name: 6 - Ribbon
+  m_EditorClassIdentifier: 
+  id: 404
+  charID: 3
+  modelObj: {fileID: 1670133534320238958, guid: 469d46e1d381511468d2235b687048fe, type: 3}
+  lobbyObj: {fileID: 1670133534320238958, guid: 4f957dc01ac00c9409757d339f779559, type: 3}
+  sprite: {fileID: 21300000, guid: 5d1c55c6f827f4e42860475aa4054b14, type: 3}
+  themeColor: {r: 0.85882354, g: 0.23529412, b: 0, a: 1}
+  category: 0
+  type: 1
+  value: 200
+  updateReady: 0
+  tableName: Character
+  unlockEntry: Unlock 1

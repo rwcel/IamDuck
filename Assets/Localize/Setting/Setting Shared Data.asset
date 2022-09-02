@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Setting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Setting
+  m_TableCollectionNameGuidString: 0a8684b6db7badd43b9c48aa60485319
+  m_Entries:
+  - m_Id: 310388385222656
+    m_Key: Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 310662122278912
+    m_Key: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311084719378432
+    m_Key: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311087382761472
+    m_Key: Alarm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311201639796736
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311461506289664
+    m_Key: Cafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311465423769600
+    m_Key: Policy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311467223126016
+    m_Key: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311468435279872
+    m_Key: Coupon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311727836205056
+    m_Key: Link Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 311729354543104
+    m_Key: License
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316008454787072
+    m_Key: Null Coupon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 316010916843520
+    m_Key: Copied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 318413078630400
+    m_Key: Input Coupon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341484279795712
+    m_Key: Log Out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341484908941312
+    m_Key: Sign Out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11880048809316352
+    m_Key: Exist Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11880933589356544
+    m_Key: Allow Push
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5550248154835189772
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248154835189772
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1657776531236

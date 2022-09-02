@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InGame Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InGame
+  m_TableCollectionNameGuidString: 1a0a89a46f06260498d48ab956e44baf
+  m_Entries:
+  - m_Id: 3364707471360
+    m_Key: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7661373460480
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698098786304
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739387514880
+    m_Key: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10431774167040
+    m_Key: View Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10491316506624
+    m_Key: Use Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11232210948096
+    m_Key: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877057532432384
+    m_Key: Height
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118720762777600
+    m_Key: Revive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118733865783296
+    m_Key: Revive Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2124255000104960
+    m_Key: Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4767085153587200
+    m_Key: Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10094413541986304
+    m_Key: Exit Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10096581988765696
+    m_Key: Retry Confirm
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5550248154835189767
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248154835189767
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1657773521169

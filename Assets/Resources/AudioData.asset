@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65fb254edc6193a47b2912a3d52b6df0, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: 
+  bgms:
+  - clip: {fileID: 8300000, guid: ab5b51f034485ab4c9625d9b2001b77b, type: 3}
+    id: 0
+    volume: 1
+  - clip: {fileID: 8300000, guid: b73f6272fe52dfc41bfc5b2c1fd4358b, type: 3}
+    id: 1
+    volume: 1
+  sfxs:
+  - clip: {fileID: 8300000, guid: 7c483115e8501934dab942bf3ac048de, type: 3}
+    id: 0
+  - clip: {fileID: 8300000, guid: ac33fbe8e02318f4fac411822902860b, type: 3}
+    id: 1
+  - clip: {fileID: 8300000, guid: f72a4b743b4790a46a729b6006537fc9, type: 3}
+    id: 2
+  - clip: {fileID: 8300000, guid: b953d20a7692d374785d683af17dd36c, type: 3}
+    id: 3
+  - clip: {fileID: 8300000, guid: e907aca19b4436043940f91c59a36c74, type: 3}
+    id: 4
+  - clip: {fileID: 8300000, guid: 944c16b812f84a7428327eb705e6aa08, type: 3}
+    id: 5
+  - clip: {fileID: 8300000, guid: a3e739a827543d04084fe85cce5e4ba8, type: 3}
+    id: 6
+  - clip: {fileID: 8300000, guid: 3a99acdc97362f94fa16a79037163a89, type: 3}
+    id: 7
+  - clip: {fileID: 8300000, guid: 2f00b99e24f7a4f43abe174e9cfec7e9, type: 3}
+    id: 8
+  - clip: {fileID: 8300000, guid: f45703309a000944ebbaca83982805f9, type: 3}
+    id: 9
+  - clip: {fileID: 8300000, guid: 8806174df1ff4ed4298f2bc63c4107a9, type: 3}
+    id: 10
+  - clip: {fileID: 8300000, guid: 068cd0201144f964aa3b33fc9c960bd7, type: 3}
+    id: 11
+  - clip: {fileID: 8300000, guid: 81b4544b65658c34fa5da5511357b759, type: 3}
+    id: 12
+  - clip: {fileID: 8300000, guid: ab2bff363db9d604ab34dcfe2ec4b562, type: 3}
+    id: 13
+  - clip: {fileID: 8300000, guid: f5b14d290a68b0a4da82be76b134f274, type: 3}
+    id: 14
+  - clip: {fileID: 8300000, guid: d7369967d5bcbbc4fb36aeda690d4e67, type: 3}
+    id: 15
+  - clip: {fileID: 8300000, guid: 5a92c37fe01b08d49a03b80842c9af53, type: 3}
+    id: 16
+  - clip: {fileID: 8300000, guid: f08e70e0a9ca8ba4b8cd6b3460368c2f, type: 3}
+    id: 17
+  - clip: {fileID: 8300000, guid: 13cb73d036bcf7945b3afba0b94e4915, type: 3}
+    id: 18
+  - clip: {fileID: 8300000, guid: 942af4f547e2dfb4bbd10c9e5b6f68d0, type: 3}
+    id: 19

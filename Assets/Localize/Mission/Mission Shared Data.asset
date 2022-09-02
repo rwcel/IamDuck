@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Mission Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Mission
+  m_TableCollectionNameGuidString: db2cff0525a0f214c9e9eebae6fc91ef
+  m_Entries:
+  - m_Id: 53145079808
+    m_Key: Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047727804416
+    m_Key: GamePlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049938202624
+    m_Key: Items
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1052073103360
+    m_Key: StartBoost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1054166061056
+    m_Key: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1058670743552
+    m_Key: Goal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398694580224
+    m_Key: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6515783692816384
+    m_Key: Click Next Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6516435558961152
+    m_Key: Fail Mission
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5550248247858823193
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248247858823193
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1658129299743

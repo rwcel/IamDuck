@@ -1,0 +1,27 @@
+{
+    "name": "Jump.Manager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:a7a99516190bd674b9bad35b8399c04c",
+        "GUID:6898f276f2cf0894e8caab527517b111",
+        "GUID:909639db5ec294744b454d88ea861a10",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:60bfecf5cb232594891bc622f40d6bed",
+        "GUID:a1a41851fc9924e4687bd90e327eb076",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf",
+        "GUID:0e81489b67c433542b0690dab02c0b0b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:3359331490253f64d89177e327959e72"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

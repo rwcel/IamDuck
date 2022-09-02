@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Mission_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: db2cff0525a0f214c9e9eebae6fc91ef, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248247858823194
+  m_TableData:
+  - m_Id: 53145079808
+    m_Localized: Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1047727804416
+    m_Localized: Game play {mission_value} times
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823194
+  - m_Id: 1049938202624
+    m_Localized: Get the Items
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823194
+  - m_Id: 1058670743552
+    m_Localized: Getting to the {mission_value}F
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823194
+  - m_Id: 1054166061056
+    m_Localized: Earn {mission_value} coins
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823194
+  - m_Id: 1052073103360
+    m_Localized: 'Using Start Boost '
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823194
+  - m_Id: 1398694580224
+    m_Localized: The mission is initialized at 00:00 every day.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6515783692816384
+    m_Localized: Please receive the previous reward first.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6516435558961152
+    m_Localized: Please clear mission.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248247858823194
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 009071f1f300000000903175f400000000903171f50000000090b17df6000000009071f4f4000000

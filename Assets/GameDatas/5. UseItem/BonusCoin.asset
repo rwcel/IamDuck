@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 175af5dc7dd92dc4ba73ea7602cb9e92, type: 3}
+  m_Name: BonusCoin
+  m_EditorClassIdentifier: 
+  id: 203
+  type: 2
+  adType: 2
+  value: 1.5
+  cost: 500
+  maxAdCount: 3
+  autoEquip: 0
+  tableName: Manage
+  nameEntry: Bonus Coin

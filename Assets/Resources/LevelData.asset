@@ -1,0 +1,510 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6570a2417e35b6f4bb81cbb6ef058726, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 11400000, guid: b422ee608cca5ce4d8183a52ffc8af55, type: 2}
+    - {fileID: 11400000, guid: 8ed32adc308a3b8449e44a97eeac9294, type: 2}
+    - {fileID: 11400000, guid: 70be2be5f0ef82b44a5db9829f57199b, type: 2}
+    - {fileID: 11400000, guid: 60b1e90bd35b2f948995f14fa68c0deb, type: 2}
+    - {fileID: 11400000, guid: 98b1742e175c74c45bc78413b7bcc68e, type: 2}
+    - {fileID: 11400000, guid: feb22beb7a579ef45ab489a04fac63ad, type: 2}
+    - {fileID: 11400000, guid: edd9cacc21e7a7a48994dc6266ec195b, type: 2}
+    - {fileID: 11400000, guid: 3d3d49ab27a85014c83aacd12f6870e9, type: 2}
+    - {fileID: 11400000, guid: 7d2aca1d505fa40478f6211c24290c9a, type: 2}
+    - {fileID: 11400000, guid: d5cab9e634280ad44811eebec4d16472, type: 2}
+    - {fileID: 11400000, guid: e3c4c2104e28b03419fafcf11a55ec88, type: 2}
+    - {fileID: 11400000, guid: 717a9864e9d056e4385e9a573ba9826d, type: 2}
+    - {fileID: 11400000, guid: 3a9ffea7ada422346a85a762c06020fa, type: 2}
+    - {fileID: 11400000, guid: 0d844d9cb1a36054e9b8bd9a3eed77e8, type: 2}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: FloorMap
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[EFloorType, Jump.Utils],[FloorData,
+        Jump.SO]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.EnumEqualityComparer`1[[EFloorType, Jump.Utils]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 10
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 18446744073709551615
+    - Name: $v
+      Entry: 10
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 10
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: InGameItemMap
+      Entry: 7
+      Data: 2|System.Collections.Generic.Dictionary`2[[EIngameItem, Jump.Utils],[InGameItemData,
+        Jump.SO]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 3|System.Collections.Generic.EnumEqualityComparer`1[[EIngameItem, Jump.Utils]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 4
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 10
+      Data: 6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: ObstacleMap
+      Entry: 7
+      Data: 4|System.Collections.Generic.Dictionary`2[[EObstacleType, Jump.Utils],[ObstacleData,
+        Jump.SO]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 5|System.Collections.Generic.EnumEqualityComparer`1[[EObstacleType, Jump.Utils]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 10
+      Data: 9
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 10
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 10
+      Data: 12
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 10
+      Data: 13
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  HeightRewards: 640000002c010000f4010000bc020000e8030000
+  FirstFloor: {fileID: 11400000, guid: 8ed32adc308a3b8449e44a97eeac9294, type: 2}
+  GuideHeight: 30
+  LevelFloorInfos:
+  - level: 0
+    typePercents:
+    - type: 0
+      percent: 100
+  - level: 15
+    typePercents:
+    - type: 0
+      percent: 75
+    - type: 1
+      percent: 10
+    - type: 2
+      percent: 15
+  - level: 50
+    typePercents:
+    - type: 0
+      percent: 65
+    - type: 1
+      percent: 15
+    - type: 2
+      percent: 15
+    - type: 3
+      percent: 5
+  - level: 100
+    typePercents:
+    - type: 0
+      percent: 50
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 20
+    - type: 3
+      percent: 10
+  - level: 150
+    typePercents:
+    - type: 0
+      percent: 40
+    - type: 1
+      percent: 25
+    - type: 2
+      percent: 20
+    - type: 3
+      percent: 15
+  - level: 200
+    typePercents:
+    - type: 0
+      percent: 30
+    - type: 1
+      percent: 25
+    - type: 2
+      percent: 25
+    - type: 3
+      percent: 20
+  - level: 300
+    typePercents:
+    - type: 0
+      percent: 25
+    - type: 1
+      percent: 25
+    - type: 2
+      percent: 25
+    - type: 3
+      percent: 25
+  LevelItemInfos:
+  - level: 0
+    activePercent: 5
+    typePercents:
+    - type: 1
+      percent: 0
+    - type: 2
+      percent: 0
+    - type: 3
+      percent: 0
+    - type: 4
+      percent: 100
+  - level: 10
+    activePercent: 25
+    typePercents:
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 15
+    - type: 3
+      percent: 15
+    - type: 4
+      percent: 50
+  - level: 100
+    activePercent: 25
+    typePercents:
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 20
+    - type: 3
+      percent: 15
+    - type: 4
+      percent: 45
+  - level: 300
+    activePercent: 25
+    typePercents:
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 20
+    - type: 3
+      percent: 20
+    - type: 4
+      percent: 40
+  - level: 500
+    activePercent: 25
+    typePercents:
+    - type: 1
+      percent: 25
+    - type: 2
+      percent: 20
+    - type: 3
+      percent: 20
+    - type: 4
+      percent: 35
+  LevelObstacleInfos:
+  - level: 0
+    activePercent: 10
+    typePercents:
+    - type: 0
+      percent: 0
+    - type: 2
+      percent: 30
+    - type: 1
+      percent: 70
+    - type: 3
+      percent: 0
+    - type: 4
+      percent: 0
+  - level: 20
+    activePercent: 25
+    typePercents:
+    - type: 0
+      percent: 0
+    - type: 2
+      percent: 35
+    - type: 1
+      percent: 35
+    - type: 3
+      percent: 30
+    - type: 4
+      percent: 0
+  - level: 100
+    activePercent: 35
+    typePercents:
+    - type: 0
+      percent: 0
+    - type: 2
+      percent: 30
+    - type: 1
+      percent: 30
+    - type: 3
+      percent: 25
+    - type: 4
+      percent: 15
+  - level: 200
+    activePercent: 45
+    typePercents:
+    - type: 0
+      percent: 10
+    - type: 2
+      percent: 25
+    - type: 1
+      percent: 20
+    - type: 3
+      percent: 25
+    - type: 4
+      percent: 20
+  - level: 300
+    activePercent: 55
+    typePercents:
+    - type: 0
+      percent: 10
+    - type: 2
+      percent: 25
+    - type: 1
+      percent: 20
+    - type: 3
+      percent: 25
+    - type: 4
+      percent: 20
+  - level: 400
+    activePercent: 65
+    typePercents:
+    - type: 0
+      percent: 15
+    - type: 2
+      percent: 20
+    - type: 1
+      percent: 20
+    - type: 3
+      percent: 25
+    - type: 4
+      percent: 20
+  - level: 500
+    activePercent: 75
+    typePercents:
+    - type: 0
+      percent: 30
+    - type: 2
+      percent: 20
+    - type: 1
+      percent: 10
+    - type: 3
+      percent: 20
+    - type: 4
+      percent: 20
+  UpgradeDatas:
+  - {fileID: 11400000, guid: 37922e1f2196d684e89a95c0b21372f4, type: 2}
+  - {fileID: 11400000, guid: 05688f40d03301e49852a4233310f866, type: 2}
+  - {fileID: 11400000, guid: 37113ee4b7708004daa7df54f4210242, type: 2}
+  - {fileID: 11400000, guid: 4a06484542b819a46a0fd74beddbeb6c, type: 2}
+  - {fileID: 11400000, guid: 417ddc7aaeef312429a4cd52ff7a2656, type: 2}
+  UseItemDatas:
+  - {fileID: 11400000, guid: 57856ca6644806d49aba9ff1fc744f81, type: 2}
+  - {fileID: 11400000, guid: 7f48fdd818370d24d8bf99135c566bd9, type: 2}
+  - {fileID: 11400000, guid: b79068069ab8d2f4f90bd910b1e3a95b, type: 2}
+  - {fileID: 11400000, guid: 614b24a373a1afa419f91092d723f0b7, type: 2}
+  - {fileID: 11400000, guid: a409b7f78a12a5944a4ba404e82c9aa4, type: 2}
+  - {fileID: 11400000, guid: 94dbbbc0c3795cf46a31bfabdcd74796, type: 2}

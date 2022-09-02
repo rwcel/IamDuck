@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Lobby_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6b787788aca80124889768810bbe71fd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248431300640770
+  m_TableData:
+  - m_Id: 891825524736
+    m_Localized: Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23846194352128
+    m_Localized: Quest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24439168274432
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24468176080896
+    m_Localized: Rank
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24491819372544
+    m_Localized: Daily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24535565963264
+    m_Localized: Game Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25453128683520
+    m_Localized: Boost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302213206016
+    m_Localized: Post
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32303844790272
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32304754954240
+    m_Localized: Profile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32455137529856
+    m_Localized: Notice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388283589824512
+    m_Localized: News
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388285233991680
+    m_Localized: Forum
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248431300640770
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00903111a5be0f00

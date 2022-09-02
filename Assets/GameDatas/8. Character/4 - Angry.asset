@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd12deb9d58d98a43816f7f343ee7af8, type: 3}
+  m_Name: 4 - Angry
+  m_EditorClassIdentifier: 
+  id: 404
+  charID: 0
+  modelObj: {fileID: 4758752615771784891, guid: 2ca45a7321d25d24b86cc2e434b7d4e1, type: 3}
+  lobbyObj: {fileID: 4758752615771784891, guid: 92f27ff4457e75245a6f77c7885a85b9, type: 3}
+  sprite: {fileID: 21300000, guid: a8c918c7154930f4c9582559b182dc28, type: 3}
+  themeColor: {r: 0.85882354, g: 0.23529412, b: 0, a: 1}
+  category: 1
+  type: 1
+  value: 200
+  updateReady: 0
+  tableName: Character
+  unlockEntry: Unlock 2

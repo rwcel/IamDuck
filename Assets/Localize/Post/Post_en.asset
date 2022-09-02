@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Post_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cf1930ae303e491449fc6a878886d947, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248247858823170
+  m_TableData:
+  - m_Id: 5774610432
+    m_Localized: Post
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208871198720
+    m_Localized: No post in here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740767666176
+    m_Localized: Post is kept for up to seven days.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1151054483456
+    m_Localized: '{limit}d'
+    m_Metadata:
+      m_Items:
+      - rid: 5550248247858823170
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248247858823170
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 009031000c010000

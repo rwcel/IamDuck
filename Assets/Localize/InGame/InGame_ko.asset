@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InGame_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 1a0a89a46f06260498d48ab956e44baf, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248175859138566
+  m_TableData:
+  - m_Id: 3364707471360
+    m_Localized: "\uC77C\uC2DC\uC815\uC9C0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7661373460480
+    m_Localized: "\uB098\uAC00\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698098786304
+    m_Localized: "\uACC4\uC18D\uD558\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739387514880
+    m_Localized: "\uAC8C\uC784\uC624\uBC84"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10431774167040
+    m_Localized: "\uAD11\uACE0\uBCF4\uAE30"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10491316506624
+    m_Localized: "\uC544\uC774\uD15C \uC0AC\uC6A9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11232210948096
+    m_Localized: "\uC7AC\uC2DC\uC791"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877057532432384
+    m_Localized: "\uCE35"
+    m_Metadata:
+      m_Items:
+      - rid: 5550248175859138566
+  - m_Id: 2118720762777600
+    m_Localized: "\uC774\uC5B4\uD560\uAE4C\uC694?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118733865783296
+    m_Localized: "\uC774 \uC544\uC774\uD15C\uC73C\uB85C \uBD80\uD65C\uD558\uC2E4
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2124255000104960
+    m_Localized: "\uACB0\uACFC!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4767085153587200
+    m_Localized: "\uCD5C\uACE0 \uB192\uC774"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10094413541986304
+    m_Localized: "\uAC8C\uC784\uC5D0\uC11C \uB098\uAC00\uAC8C \uB418\uBA74 \r\n\uAE30\uB85D\uC740
+      \uC800\uC7A5\uB418\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10096581988765696
+    m_Localized: "\uB2E4\uC2DC \uC2DC\uC791\uD560 \uC2DC \uC7A5\uCC29 \uC544\uC774\uD15C\uC740
+      \r\n\uC801\uC6A9\uB418\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248175859138566
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 009031fd2a450100009031fc2cab0600009071832cab0600

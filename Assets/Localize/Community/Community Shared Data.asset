@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Community Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Community
+  m_TableCollectionNameGuidString: 04dc61c95ab99a24db9ca8da11f87a38
+  m_Entries:
+  - m_Id: 37617415589888
+    m_Key: SteamBlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37640865943552
+    m_Key: AblePang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37666308591616
+    m_Key: Cafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37680023965696
+    m_Key: Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586196168511488
+    m_Key: Logo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 5550248268251791422
+  m_KeyGenerator:
+    rid: 5550248268251791388
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248268251791388
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1658203592916
+    - rid: 5550248268251791422
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 37666308591616
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 37680023965696
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 37617415589888
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 37640865943552
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 2586196168511488
+          m_TableCodes:
+          - en
+          - ko
+        - m_KeyId: 10520611423096832
+          m_TableCodes:
+          - ko
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

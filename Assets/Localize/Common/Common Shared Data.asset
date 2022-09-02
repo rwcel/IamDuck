@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Common Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Common
+  m_TableCollectionNameGuidString: 6b65cf15b22252848856853f44496b0b
+  m_Entries:
+  - m_Id: 55848394133504
+    m_Key: Achieve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55458281918464
+    m_Key: Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87026667520
+    m_Key: Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53500439531520
+    m_Key: All Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53498497568768
+    m_Key: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24143620837376
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350682964299776
+    m_Key: CantLogin Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350662387044352
+    m_Key: CantLogin Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414696145522688
+    m_Key: Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24608718819328
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55795336187904
+    m_Key: Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586100732841984
+    m_Key: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24122850643968
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382396112408576
+    m_Key: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142152404992
+    m_Key: Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10154877047197696
+    m_Key: Error Server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53497704845312
+    m_Key: Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55496181649408
+    m_Key: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55418545082368
+    m_Key: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6590581906264064
+    m_Key: LoginError WiFi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350562130595840
+    m_Key: Maintainance Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350520518905856
+    m_Key: Maintainance Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55558567727104
+    m_Key: Message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7328501114966016
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50735516585984
+    m_Key: Receive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53495460892672
+    m_Key: Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6585466843484160
+    m_Key: Update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350602093924352
+    m_Key: Update Content
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350579511791616
+    m_Key: Update Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55560069287936
+    m_Key: View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55556864839680
+    m_Key: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206240829526016
+    m_Key: Guest Login Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206433872367616
+    m_Key: Logout Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206461156315136
+    m_Key: Delete Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625009998467072
+    m_Key: Reward!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625011961401344
+    m_Key: Tap to close
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5550248152917868546
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248152917868546
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1657759724768

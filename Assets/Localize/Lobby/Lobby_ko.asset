@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Lobby_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 6b787788aca80124889768810bbe71fd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248431300640771
+  m_TableData:
+  - m_Id: 891825524736
+    m_Localized: "\uC624\uB9AC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23846194352128
+    m_Localized: "\uC77C\uC77C\uBBF8\uC158"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24439168274432
+    m_Localized: "\uC0C1\uC810"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24468176080896
+    m_Localized: "\uB7AD\uD0B9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24491819372544
+    m_Localized: "\uCD9C\uC11D\uCCB4\uD06C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24535565963264
+    m_Localized: "\uAC8C\uC784 \uC2DC\uC791"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25453128683520
+    m_Localized: "\uBD80\uC2A4\uD2B8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32304754954240
+    m_Localized: "\uD504\uB85C\uD544"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32303844790272
+    m_Localized: "\uC124\uC815"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32302213206016
+    m_Localized: "\uC6B0\uD3B8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32455137529856
+    m_Localized: "\uC54C\uB9BC\uD310"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388283589824512
+    m_Localized: "\uACF5\uC9C0\uC0AC\uD56D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388285233991680
+    m_Localized: "\uCEE4\uBBA4\uB2C8\uD2F0"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248431300640771
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00903111a5be0f00

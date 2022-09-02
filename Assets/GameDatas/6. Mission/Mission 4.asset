@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4e5afe6c008c9a43b0c9d862dce14f3, type: 3}
+  m_Name: Mission 4
+  m_EditorClassIdentifier: 
+  num: 3
+  missionValue: 1500
+  isBar: 1
+  gauge: 30
+  rewardID: 101
+  rewardValue: 75
+  nameText: "1500\uCF54\uC778 \uD68D\uB4DD"
+  tableName: Mission
+  keyName: Coins
+  category: 3
+  type: 101
+  typeBit: -1
+  currentValue: 900

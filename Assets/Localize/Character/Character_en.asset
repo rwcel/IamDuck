@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Character_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1dcec89aa4e967b4e97893e979f117a4, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248266426482699
+  m_TableData:
+  - m_Id: 246086177492992
+    m_Localized: Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246147485634560
+    m_Localized: Unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246244432777216
+    m_Localized: Equip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529537
+    m_Localized: Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529538
+    m_Localized: Pink Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529539
+    m_Localized: Green Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529540
+    m_Localized: Ribbon Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529541
+    m_Localized: Angry Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529542
+    m_Localized: Mohican Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529543
+    m_Localized: Twinkle Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529544
+    m_Localized: Duck doll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529545
+    m_Localized: Chicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529546
+    m_Localized: Pig Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529547
+    m_Localized: Tiger Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529548
+    m_Localized: Short-haired Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529549
+    m_Localized: Naval duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529550
+    m_Localized: Paleolithic Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529551
+    m_Localized: Stone Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529552
+    m_Localized: Children Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529553
+    m_Localized: Slime Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529554
+    m_Localized: Pajama Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529555
+    m_Localized: Agent Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 248193022529556
+    m_Localized: Ghost Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 257104702181376
+    m_Localized: Get to the {unlock_value}F
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 257104702181377
+    m_Localized: Cumulative Get {unlock_value} items
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 257104702181380
+    m_Localized: Cumulative {unlock_value}F up
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 257104702181381
+    m_Localized: Buy with {unlock_value} coins
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 257104702181382
+    m_Localized: Buy with {unlock_value} fish
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 257104702181383
+    m_Localized: Obtain upon completion of {unlock_value} day attendance check
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 259375305428992
+    m_Localized: Robot Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 259375309623296
+    m_Localized: Obtained on first payment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723877771710464
+    m_Localized: Coming Soon..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1343391727194112
+    m_Localized: Get Duck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1343522266517504
+    m_Localized: Get the {duck_name}!
+    m_Metadata:
+      m_Items:
+      - rid: 5550248266426482699
+  - m_Id: 6505506280673280
+    m_Localized: Current selected character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6505504183521280
+    m_Localized: Please clear unlock misssion.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248266426482699
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 039071dad5e90000029071dad5e90000019071dad5e90000009071dad5e90000009071d8d5e90000049071dad5e90000079071dad5e9000000907127edc50400069071dad5e90000059071dad5e90000

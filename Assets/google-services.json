@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485180099506",
+    "project_id": "iamduck-86a95",
+    "storage_bucket": "iamduck-86a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485180099506:android:2838fc71bc29d264a5f2ab",
+        "android_client_info": {
+          "package_name": "com.ablegames.jumptab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485180099506-ii8uooc1ap0rbfgl9q032toa6gtg0plk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCraVPS4H9rIkDRkdhzLTYT_1NBMS7szss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485180099506-ii8uooc1ap0rbfgl9q032toa6gtg0plk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

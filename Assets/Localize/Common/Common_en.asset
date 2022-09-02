@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Common_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6b65cf15b22252848856853f44496b0b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 87026667520
+    m_Localized: Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 142152404992
+    m_Localized: Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24143620837376
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24122850643968
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24608718819328
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50735516585984
+    m_Localized: Receive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53495460892672
+    m_Localized: Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53497704845312
+    m_Localized: Fail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53498497568768
+    m_Localized: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53500439531520
+    m_Localized: All Agree
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55418545082368
+    m_Localized: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55458281918464
+    m_Localized: Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55496181649408
+    m_Localized: Free
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55556864839680
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55558567727104
+    m_Localized: Message
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55560069287936
+    m_Localized: View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55795336187904
+    m_Localized: Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55848394133504
+    m_Localized: Achieve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 382396112408576
+    m_Localized: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 414696145522688
+    m_Localized: To Change
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6585466843484160
+    m_Localized: Update
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6586100732841984
+    m_Localized: Community
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350562130595840
+    m_Localized: "<size=32>We apologize for the inconvenience. we'll try to fix it
+      ASAP\r.\n<size=28><color #a9a9a9>\u203B For inspection details, please check
+      the notice in the official cafe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6590581906264064
+    m_Localized: "\"Please try again later\nPlease check the following matters.<br><size=28><color
+      #a9a9a9>Check WI-Fi connection status<br>Check the notice in the Community\"\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7328501114966016
+    m_Localized: Exit this Game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350662387044352
+    m_Localized: Can't login the game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350682964299776
+    m_Localized: "Please check the  Community notice.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350520518905856
+    m_Localized: Maintainance Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350579511791616
+    m_Localized: Update Required
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7350602093924352
+    m_Localized: 'Go to the store and proceed with the update.
+
+      <size=33><color
+      #a9a9a9>*Please check the official cafe .'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10143601285844992
+    m_Localized: After 7 days, the account will be deleted.<br>Please note that the
+      deletion of the account<br>will be canceled if you re-access the account.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10143607027847168
+    m_Localized: Proceed to logout.<br>Return to the title screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10144082125049856
+    m_Localized: When guest login, deleting the game also deletes data.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10154877047197696
+    m_Localized: Not conneted to server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206461156315136
+    m_Localized: "<size=35>After 7 days, \r\nthe account will be deleted.\nAccount
+      will be canceled \r\nif you re-access the account."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206433872367616
+    m_Localized: 'Proceed to logout.
+
+      Return to the title screen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10206240829526016
+    m_Localized: When guest login, deleting the game also deletes data.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625009998467072
+    m_Localized: Get Reward!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625011961401344
+    m_Localized: Tap to close
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Shop_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 80a8302ebd7afbd4c96d45a4b3367556, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248431300640777
+  m_TableData:
+  - m_Id: 124863483904
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 237853839360
+    m_Localized: '{shop_value} Coin'
+    m_Metadata:
+      m_Items:
+      - rid: 5550248431300640777
+  - m_Id: 297194852352
+    m_Localized: Free Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 391151456256
+    m_Localized: '{shop_value} Fish'
+    m_Metadata:
+      m_Items:
+      - rid: 5550248431300640777
+  - m_Id: 8476985233408
+    m_Localized: Goods
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8486472749056
+    m_Localized: Package
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8666462916608
+    m_Localized: Coin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8679314264064
+    m_Localized: Fish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246832805548032
+    m_Localized: Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246849666650112
+    m_Localized: Weekly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246859472932864
+    m_Localized: Period
+    m_Metadata:
+      m_Items: []
+  - m_Id: 246870541701120
+    m_Localized: Limit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247736535453696
+    m_Localized: Fish Exchange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 247812422995968
+    m_Localized: Weekly Item 3 Set
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256654280069120
+    m_Localized: Unlimited 2x coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 256619358294016
+    m_Localized: Remove Ads 30days
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156631142400
+    m_Localized: '-'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084969417019392
+    m_Localized: '{shop_value}'
+    m_Metadata:
+      m_Items:
+      - rid: 5550248431300640777
+  - m_Id: 4672041474166784
+    m_Localized: For 30 days!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4684412502511616
+    m_Localized: Purchase Fail.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4684410438914048
+    m_Localized: Purchase Success.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7876786749804544
+    m_Localized: Not enough goods to exchange.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248431300640777
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090316137000000009071125b0000000090b120c6da0300

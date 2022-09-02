@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InGame_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1a0a89a46f06260498d48ab956e44baf, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5550248175859138565
+  m_TableData:
+  - m_Id: 3364707471360
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7661373460480
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698098786304
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7739387514880
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10431774167040
+    m_Localized: View Ad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10491316506624
+    m_Localized: Use Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11232210948096
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877057532432384
+    m_Localized: F
+    m_Metadata:
+      m_Items:
+      - rid: 5550248175859138565
+  - m_Id: 2118720762777600
+    m_Localized: Revive?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2118733865783296
+    m_Localized: you can revive using this item.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2124255000104960
+    m_Localized: Result!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4767085153587200
+    m_Localized: Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10094413541986304
+    m_Localized: If you leave the game, your records will not be saved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10096581988765696
+    m_Localized: 'if you restart game, doesn''t bring items back. '
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5550248175859138565
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 009031fd2a450100009031fc2cab0600009071832cab0600
